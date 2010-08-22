@@ -149,8 +149,8 @@ module Chargify
       put :reset_balance
     end
 
-    def upgrade(attrs = {})
-      post :migrations, :migration => attrs
+    def upgrade(params = {})
+      post :migrations, params 
     end
     alias :downgrade :upgrade
     
