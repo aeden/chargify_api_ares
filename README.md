@@ -78,3 +78,6 @@ you may be interested in some [ActiveResource Documentation](http://apidock.com/
 
 * Michael Klett (Grasshopper Labs and Chargify)
 * The Lab Rats @ Phase Two Labs
+* Brian Rose
+* Nathan Verni
+* Anthony Eden
